@@ -87,13 +87,13 @@ ________________________________________________________________________________
 ## 📈 Statistics
 
 <p align="left">
- <img src="https://komarev.com/ghpvc/?username=mslmyrtd" alt="visitor counter" width="20%"/>
+ <img src="https://komarev.com/ghpvc/?username=eypbatihan" alt="visitor counter" width="20%"/>
 </p>
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=mslmyrtd&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mslmyrtd&theme=chartreuse-dark" alt="my commit status" width="49%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=eypbatihan&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=eypbatihan&theme=chartreuse-dark" alt="my commit status" width="49%" />
 </p>
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mslmyrtd&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eypbatihan&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 </p>
