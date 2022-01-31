@@ -69,7 +69,7 @@ ________________________________________________________________________________
 
 ## 👨👩 Social
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%BCsl%C3%BCm-yurtada/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ey%C3%BCp-bat%C4%B1han/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
@@ -80,7 +80,7 @@ ________________________________________________________________________________
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/m%C3%BCsl%C3%BCm-yurtada/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ey%C3%BCp-bat%C4%B1han/)
 
 ---
 
