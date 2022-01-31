@@ -39,7 +39,7 @@
  ## TOOLS :
  <p>
   <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
-  <a href="#" target="_blank"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" alt="gitHub" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://marka-logo.com/wp-content/uploads/2020/12/GitHub-Logo.png" alt="gitHub" height="50"/> </a>
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="40"/> </a>
   
   
