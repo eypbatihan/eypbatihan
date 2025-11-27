@@ -1,82 +1,78 @@
-### Hi there 👋
+# Hi there 👋
 
 # Hi guys! My name is Eyüp. Welcome to my GitHub.
 
-## I am a Fullstack Web Developer Candidate👋
+## I am a Frontend Developer and currently learning Backend Development👋
 
 ---
 
 ## 🚀 Skills
 
-## FRONTEND :
+### FRONTEND :
 
 <p>
-  
-  <a href="#" target="_blank"> <img src="https://github.com/Mr-Mesut-OZTURK/Mr-Mesut-OZTURK/blob/main/images/html5.png" alt="html" height="50"/> </a> 
-  <a href="#" target="_blank"> <img src="https://github.com/Mr-Mesut-OZTURK/Mr-Mesut-OZTURK/blob/main/images/css3.png" alt="css" height="50"/> </a> 
-  <a href="#" target="_blank"> <img src="https://github.com/Mr-Mesut-OZTURK/Mr-Mesut-OZTURK/blob/main/images/js-logo.png" alt="js" height="50"/> </a> 
-  
-  
-  <a href="#" target="_blank"> <img src="https://github.com/Mr-Mesut-OZTURK/Mr-Mesut-OZTURK/blob/main/images/sass.png" alt="sass" height="50"/> </a>
-  <a href="#" target="_blank"> <img src="[https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png)" alt="react" width="50"/> </a>
-  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="50"/> </a>
-  <a href="#" target="_blank"> <img src="https://mui.com/static/logo.png" alt="material-ui" height="40"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://mui.com/static/logo.png" height="40"/> </a>
+</p>
 
- </p>
- 
- 
-## BACKEND :
+### BACKEND :
+
 <p>
-  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
-  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="django" height="70"/> </a> 
-  
-  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="MySQL" height="50"/> </a> 
-  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" height="50"/> </a>
-  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" width="150"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" height="70"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" height="50"/> </a>
+  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="50"/> </a>
+</p>
 
- </p>
- 
- ## TOOLS :
+## TOOLS :
+
  <p>
-  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a> 
+  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
   <a href="#" target="_blank"> <img src="https://marka-logo.com/wp-content/uploads/2020/12/GitHub-Logo.png" alt="gitHub" height="50"/> </a>
   <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="40"/> </a>
-  
-  
-  <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="45"/> </a> 
-  <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
-  
-  
-  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="linux" height="60"/> </a> 
-  
+
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="45"/> </a> <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
+
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png" alt="linux" height="60"/> </a>
+
 </p>
 
 ## TO DO :
 
 <p>
-  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="45"/>     </a> 
-
-  
-
-
- 
+  <a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="45"/>     </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45"/>     </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="45"/>     </a>
+  <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45"/>     </a>
 </p>
 ______________________________________________________________________________________________________
 
 ## 👨👩 Social
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ey%C3%BCp-bat%C4%B1han/)
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
-[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://youtube.com/)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?\&style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ey%C3%BCp-bat%C4%B1han/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?\&style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/)
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?\&style=for-the-badge\&logo=youtube\&logoColor=white")](https://youtube.com/)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?\&style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/)
 
 <img src="./images/content_heart-react.gif" alt="react-native" width="20%" height="20%" align="right">
 
-- 🔭 I’m currently working on frontend development (JavaScript | React | HTML | CSS)
-- 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything that you want to learn
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ey%C3%BCp-bat%C4%B1han/)
+* 🔭 I’m currently working on frontend development (JavaScript | React | HTML | CSS | TypeScript | Next.js)
+* 🌱 I’m currently learning backend development (Node.js | Express.js | Django | MongoDB)
+* 👯 I’m looking to collaborate on open source projects
+* 💬 Ask me about anything that you want to learn
+* 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ey%C3%BCp-bat%C4%B1han/)
 
 ---
 
